@@ -25,7 +25,7 @@ public class BugValidator2
                 System.out.println("Title Validated: OS detected");
                 return usertitle;
             }
-            System.out.println("Title Invalidated");
+            System.out.println("Title Invalidated");;
         }
     }
     static boolean hasOS(String title)
