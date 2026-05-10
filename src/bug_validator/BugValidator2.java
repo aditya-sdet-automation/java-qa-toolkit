@@ -1,3 +1,5 @@
+package bug_validator;
+
 import java.util.*;
 public class BugValidator2
 {
